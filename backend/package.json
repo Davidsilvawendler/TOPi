@@ -1,7 +1,6 @@
 {
   "name": "desafio-backend",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,5 +17,9 @@
     "express": "^4.17.1",
     "sequelize": "^6.3.3",
     "sqlite3": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
